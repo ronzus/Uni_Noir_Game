@@ -24,11 +24,13 @@ Step into the shoes of **M. Goldie**, a seasoned detective from Brooklyn, as you
 
 ### How to Install & Play
 1. **Download the Game**:
-   ```sh
-   git clone <repository_url>
+   ```
+   download zip from:
+   https://drive.google.com/file/d/1MotYR_WnwekCw4q8S6zpgVdfQPjKqO8I/view?usp=sharing
    ```
 2. **Run the Game**:
    ```
+   Extract Uni_Noir.zip
    Builds/Uni-Game.exe  # run the executable
    ```
 
